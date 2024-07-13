@@ -1,4 +1,4 @@
-@_implementationOnly import GoogleMobileAds
+import GoogleMobileAds
 import UIKit
 
 public class DynamicFramework: NSObject {
